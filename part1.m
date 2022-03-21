@@ -187,9 +187,6 @@ ylabel 'Y Coordinate (*10^-7m)';
 xlabel 'X coordinate (*10^-7m)';
 
 
-%% Did not finish the rest due to presumably current plot error?
-% side note im not made for these matlab stuff :(
-
 %     figure(4)
 %     subplot(2,1,1)
 %     histogram(edata(3,:),simlen/25)
